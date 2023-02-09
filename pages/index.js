@@ -5,8 +5,9 @@ export default function Home() {
     <>
       <Head>
         <title>Hulu Clone App</title>
+        <link rel="icon" href="/Hulu_ico.png" />
       </Head>
-      <h1>Let's build Hulu</h1>
+      <h1>Let&apos;s build Hulu</h1>
     </>
   )
 }
