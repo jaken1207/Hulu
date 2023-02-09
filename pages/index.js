@@ -13,7 +13,7 @@ export default function Home() {
       <Header/>
 
       {/* Nav */}
-      <h1>Let&apos;s build Hulu</h1>
+      <Nav />
 
       {/* Result */}
     </>
